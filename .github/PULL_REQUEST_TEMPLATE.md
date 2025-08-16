@@ -1,21 +1,13 @@
-# Descrição
+## Descrição do Pull Request
 
-Descrição da alteração que está sendo proposta.
+Por favor, inclua um breve resumo das alterações e qual problema ele resolve. Inclua também o contexto e o raciocínio por trás da sua alteração.
 
-## Tipo de alteração
+### Checklist
 
-- [x] Resolução do Desafio Profile README (envie APENAS o arquivo `community/SEU_USERNAME.md`)
-- [ ] Correção de bug
-- [ ] Nova funcionalidade
-- [ ] Alteração na documentação
-- [ ] Outro (especifique)
+- [ ] Meu perfil foi adicionado na pasta `community`.
+- [ ] O nome do meu arquivo está no formato correto (`nome-de-usuario.md`).
+- [ ] Minhas informações de perfil estão completas.
 
-## Checklist
+### Links
 
-- [x] Minhas alterações não deletam partes do projeto
-- [x] Minhas alterações não introduzem novos problemas
-- [x] Minha contribuição está de acordo com o [Guia de Contribuição](https://github.com/elidianaandrade/dio-lab-open-source/blob/main/CONTRIBUTING.md)
-
-### Comentários adicionais
-
-Adicione aqui quaisquer comentários ou informações adicionais relevantes para o revisor.
+- **Link para o Perfil:** [Link direto para o seu novo arquivo de perfil]
